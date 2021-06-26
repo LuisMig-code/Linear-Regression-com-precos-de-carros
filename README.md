@@ -1,6 +1,6 @@
 # Linear Regression com precos de carros:
 
-<img src="https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width=600 align=center>
+<img src="https://images.pexels.com/photos/7674/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
 
 ## PT-BR:
 
