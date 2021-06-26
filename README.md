@@ -1,7 +1,5 @@
 # Linear Regression com precos de carros:
 
-<img src="https://images.pexels.com/photos/7674/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
-
 ## PT-BR:
 
 <p>
@@ -13,3 +11,6 @@
  <p>
   In this project, we create a Machine Learning model with data from the <a href="https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes">Kaggle</a> in which we test several Linear Regression algorithms to find one that can help us predict cars based on certain characteristics. We use very interesting preprocessing methods and methods.
  </p>
+ 
+ <img src="https://images.pexels.com/photos/7674/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+
